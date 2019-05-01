@@ -2,7 +2,6 @@ package com.github.nut077.microservice.netflixzuulapigatewayserver.filter;
 
 import com.netflix.zuul.ZuulFilter;
 import com.netflix.zuul.context.RequestContext;
-import com.netflix.zuul.exception.ZuulException;
 import lombok.extern.log4j.Log4j2;
 import org.springframework.stereotype.Component;
 
